@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AssignmentApplication</string>
+    <string name="title">Budget App</string>
+    <string name="addTransactionButton">Add Transaction</string>
+    <string name="viewTransactionButton">View Transaction</string>
+    <string name="dataAnalyticsButton">Data Analytics</string>
+    <string name="optionsButton">Options</string>
+    <string name="menuButton">Menu</string>
+    <string name="accountButton">Account</string>
+    <string name="userDisplay">Hello</string>
+</resources>
